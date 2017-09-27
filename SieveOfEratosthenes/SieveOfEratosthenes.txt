@@ -1,0 +1,6 @@
+The Sieve of Eratosthenes is an algorithm that was developed by Eratosthenes of Cyrene (276 BC - 194 BC)
+First, this algorithm starts with an array of integers from 2 to n.
+Starting with 2, the algorithm eliminates all the multiples of 2, excluding 2 itself.
+The algorithim then moves on to the next number (3) and eliminates all the multiples of 3, excluding 3 itself.
+This continues until the next number of the array is more than the square root of n since n can't be a multiple of any number after the sqrt of n.
+Afterwards, the algorithm outputs all the numbers that were not eliminated.
