@@ -4,3 +4,7 @@ Step 1: Read two strings from the command prompt
 Step 2: Remove all non-apha characters and convert to lowercase
 Step 3: Sort the strings alphabetically and check if they are equal
 Step 5: Tell user the outcome
+
+Problem is based on Problem 10 Chapter 1.4 in:
+"Introduction to the Design and Analysis of Algorithms" 
+by Anany Levitin 3rd Editon
