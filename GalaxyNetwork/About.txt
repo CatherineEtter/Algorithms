@@ -1,0 +1,6 @@
+This programs creates a network of different celestial bodies and structures.
+Each node has the following attributes:
+- Name
+- Description
+- What it contains
+- What it orbitss
